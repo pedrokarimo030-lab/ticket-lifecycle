@@ -40,7 +40,8 @@ The process of creating an osTick VM
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/742d47a8-4643-4375-85cd-046daee9a31b" />
+
 </p>
 <p>
 .
