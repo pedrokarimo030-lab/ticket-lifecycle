@@ -45,6 +45,9 @@ The process of creating an osTick VM
 
 <img width="975" height="481" alt="image" src="https://github.com/user-attachments/assets/623e3e44-d8ca-4876-bbfd-b346e2994d8d" />
 
+<img width="975" height="459" alt="image" src="https://github.com/user-attachments/assets/edec4ca3-6aee-4ff1-863e-4fa1a2ea3965" />
+
+
 
 
 
