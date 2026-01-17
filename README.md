@@ -39,7 +39,7 @@ The process of creating an osTick VM
 <p>
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/742d47a8-4643-4375-85cd-046daee9a31b" />
 <p>
-![Screenshot 2025-12-14 235922 Creation of osticket-vm](https://github.com/user-attachments/assets/5c6b2738-87c1-4836-8a40-78c52d5fcf89)
+Installing PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the osTicket-Installation-Files
 </>
 ![Screenshot 2025-12-14 235922 Creation of osticket-vm](https://github.com/user-attachments/assets/fee969c9-9a52-4eaf-af09-e7569b3c1b4b)
 
