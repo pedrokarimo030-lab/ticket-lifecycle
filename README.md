@@ -38,14 +38,17 @@ The process of creating an osTick VM
 <img width="975" height="706" alt="image" src="https://github.com/user-attachments/assets/0a232686-a802-4fec-be7e-9029871a261c" />
 <p>
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/742d47a8-4643-4375-85cd-046daee9a31b" />
-
+<p>
 ![Screenshot 2025-12-14 235922 Creation of osticket-vm](https://github.com/user-attachments/assets/5c6b2738-87c1-4836-8a40-78c52d5fcf89)
-
+</>
 ![Screenshot 2025-12-14 235922 Creation of osticket-vm](https://github.com/user-attachments/assets/fee969c9-9a52-4eaf-af09-e7569b3c1b4b)
 
 <img width="975" height="481" alt="image" src="https://github.com/user-attachments/assets/623e3e44-d8ca-4876-bbfd-b346e2994d8d" />
 
 <img width="975" height="459" alt="image" src="https://github.com/user-attachments/assets/edec4ca3-6aee-4ff1-863e-4fa1a2ea3965" />
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/012cd92f-4161-4818-833d-04965307378d" />
+
 
 
 
