@@ -47,6 +47,8 @@ The process of creating an osTick VM
 
 <img width="975" height="459" alt="image" src="https://github.com/user-attachments/assets/edec4ca3-6aee-4ff1-863e-4fa1a2ea3965" />
 
+IIS and CGI Enabled
+
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/012cd92f-4161-4818-833d-04965307378d" />
 
 
