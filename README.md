@@ -3,7 +3,6 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-The process of creating an osTick VM
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
@@ -28,6 +27,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+
+The process of creating an osTick VM
+
 
 <p>
 <img width="975" height="706" alt="image" src="https://github.com/user-attachments/assets/0a232686-a802-4fec-be7e-9029871a261c" />
