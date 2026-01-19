@@ -31,6 +31,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 The process of creating an osTick VM
 
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/fe600745-a3d4-46ec-a4d4-ec09efee9c47" />
+
+
 <p>
 
 <p>
