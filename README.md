@@ -41,7 +41,7 @@ The process of creating an osTick VM
 <p>
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/742d47a8-4643-4375-85cd-046daee9a31b" />
 <p>
-Installing PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the osTicket-Installation-Files
+
 
   
 
