@@ -41,7 +41,7 @@ Figure 1 and 2: Creating the virtual machine inside Azure, VM "osticket."
 <p>
 <img width="975" height="706" alt="image" src="https://github.com/user-attachments/assets/0a232686-a802-4fec-be7e-9029871a261c" />
 
-  Figures 3, 4, and 5: Review the size "1 X Standard DS1 v2" to the left, "deployment," and final creation of the "VM-osticket."
+  Figures 3, 4, and 5: Review the size "1 x Standard DS1 v2" to the left, "deployment," and final creation of the "VM-osticket."
 <p>
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/742d47a8-4643-4375-85cd-046daee9a31b" />
 
@@ -75,6 +75,9 @@ Installing PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the osTicket-I
 Internet Information Services (IIS) and Computer-Generated Imagery (CGI) Enabled
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/012cd92f-4161-4818-833d-04965307378d" />
+
+After the Internet Information Services (IIS) and Computer-Generated Imagery (CGI) are enabled, the server that has been functioning as seen above, becomes 
+dynamic as shown immediately after the next image below.
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6754a973-34fa-4467-9775-198bc2c03c10" />
 
