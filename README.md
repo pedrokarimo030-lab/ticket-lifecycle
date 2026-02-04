@@ -76,10 +76,11 @@ Internet Information Services (IIS) and Computer-Generated Imagery (CGI) Enabled
 
 <img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/012cd92f-4161-4818-833d-04965307378d" />
 
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6754a973-34fa-4467-9775-198bc2c03c10" />
+
 After the Internet Information Services (IIS) and Computer-Generated Imagery (CGI) are enabled, the server that has been functioning as seen above, becomes 
 dynamic as shown immediately after the next image below.
 
-<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/6754a973-34fa-4467-9775-198bc2c03c10" />
 
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/28a9bcef-dfc2-423c-8773-b8d8e138c682" />
 
