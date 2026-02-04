@@ -41,7 +41,7 @@ Figure 1 and 2: Creating the virtual machine inside Azure, VM "osticket."
 <p>
 <img width="975" height="706" alt="image" src="https://github.com/user-attachments/assets/0a232686-a802-4fec-be7e-9029871a261c" />
 
-  Figures 3, 4, and 5: Review the size "1 x Standard DS1 v2" to the left, "deployment," and final creation of the "VM-osticket."
+  Figures 3, 4, and 5: Review the size "1 x Standard DS1 v2" to the left, "deployment complete," and final creation of the "VM-osticket."
 <p>
 <img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/742d47a8-4643-4375-85cd-046daee9a31b" />
 
