@@ -17,7 +17,7 @@ The goal is to simulate a real-world Help Desk environment and show how IT suppo
 
 •	osTicket (Open Source Ticketing System)
 
-•	Windows 10 / Windows Server (VM)
+•	Windows 11 / Windows Server (VM)
 
 •	Web Browser (Chrome / Edge)
 
@@ -25,14 +25,11 @@ The goal is to simulate a real-world Help Desk environment and show how IT suppo
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 11</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Ticket Lifecycle Demonstration</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+Below is a step-by-step walkthrough of a ticket moving through its entire lifecycle.
 
 <h2>Lifecycle Stages</h2>
 
