@@ -31,10 +31,9 @@ The goal is to simulate a real-world Help Desk environment and show how IT suppo
 
 Below is a step-by-step walkthrough of a ticket moving through its entire lifecycle.
 
-1️ Ticket Intake
-A user submits a support request through the osTicket web portal.
+1️)  Ticket Intake
 
-User is unable to access the shared network drive.
+A user submits a support request through the osTicket web portal: User is unable to access the shared network drive.
 
 
 
