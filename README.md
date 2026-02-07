@@ -13,13 +13,15 @@ This project demonstrates the complete ticket lifecycle in osTicket, from ticket
 The goal is to simulate a real-world Help Desk environment and show how IT support teams manage user requests efficiently.
 <br />
 
+<h2>Tools & Environment</h2>
 
+•	osTicket (Open Source Ticketing System)
 
-<h2>Environments and Technologies Used</h2>
+•	Windows 10 / Windows Server (VM)
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+•	Web Browser (Chrome / Edge)
+
+•	Localhost / IIS / Apache (depending on setup)
 
 <h2>Operating Systems Used </h2>
 
