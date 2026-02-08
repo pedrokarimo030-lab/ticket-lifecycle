@@ -31,10 +31,16 @@ The goal is to simulate a real-world Help Desk environment and show how IT suppo
 
 Below is a step-by-step walkthrough of a ticket moving through its entire lifecycle.
 
-1️)  Ticket Intake
+1️⃣  Ticket Intake
 A user submits a support request through the osTicket web portal: The user is unable to access the shared network drive.
 
 📷 Screenshot: Ticket submission confirmation page
+
+2️⃣ Ticket Creation
+The ticket appears in the osTicket Agent Panel as a new/open ticket.
+
+📷 Screenshot: Agent panel showing newly created ticket
+
 
 
 
