@@ -42,5 +42,50 @@ The ticket appears in the osTicket Agent Panel as a new/open ticket.
 📷 Screenshot: Agent panel showing newly created ticket
 
 
+3️⃣ Ticket Assignment
+The ticket is assigned to:
+•	A specific department
+•	Or an IT support agent
+
+📷 Screenshot: Ticket assigned to agent/department
+
+4️⃣ Ticket Prioritization
+The ticket priority is set based on impact and urgency:
+•	Low
+•	Medium
+•	High
+
+📷 Screenshot: Priority set (e.g., High)
+
+5️⃣ Agent Response & Communication
+The assigned agent responds to the user and requests additional details or provides troubleshooting steps.
+
+📷 Screenshot: Agent reply visible in ticket thread
+
+6️⃣ Ticket Resolution
+The issue is resolved (e.g., permissions corrected, access restored).
+Ticket status is updated to Resolved.
+
+📷 Screenshot: Ticket marked as resolved
+
+7️⃣ Ticket Closure
+After confirmation from the user, the ticket is closed.
+
+📷 Screenshot: Closed ticket status
+
+✅ Conclusion
+This project demonstrates my understanding of:
+•	Help Desk workflows
+•	Ticket lifecycle management
+•	Customer communication
+•	Prioritization and escalation
+•	Real-world IT support processes
+This mirrors the daily responsibilities of a Help Desk / IT Support Technician.
+
+
+
+
+
+
 
 
